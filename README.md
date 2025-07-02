@@ -67,3 +67,24 @@ We trained and evaluated 4 classification models to predict Top 5 finishes:
 
 ```r
 install.packages(c("tidyverse", "lubridate", "janitor", "hms", "caret", "randomForest", "class", "e1071", "ggplot2"))
+
+Run the script to:
+
+- ✅ Clean the dataset  
+- 📊 Visualize key relationships  
+- 🧠 Train & evaluate ML models  
+- 🏁 Output F1 scores and confusion matrices  
+
+---
+
+## 🙌 Acknowledgements
+
+Special thanks to the open-source motorsport analytics community and Kaggle Datasets.  
+This project would not be possible without public data sharing and the amazing R community.
+
+---
+
+## 🧠 Author
+
+**Shanzay** 
+
