@@ -62,7 +62,7 @@ We trained and evaluated 4 classification models to predict Top 5 finishes:
 
 ## 🔧 How to Run
 
-1. Open the R script located in `notebooks/f1_analysis_modeling.R`
+1. Open the R script named `f1_analysis_modeling.R`
 2. Make sure to install required R packages:
 
 ```r
@@ -87,5 +87,5 @@ This project would not be possible without public data sharing and the amazing R
 
 ## 🧠 Author
 
-**Shanzay** 
+**Syeda Shanzay Shah** 
 
