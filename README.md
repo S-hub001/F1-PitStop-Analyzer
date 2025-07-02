@@ -67,6 +67,7 @@ We trained and evaluated 4 classification models to predict Top 5 finishes:
 
 ```r
 install.packages(c("tidyverse", "lubridate", "janitor", "hms", "caret", "randomForest", "class", "e1071", "ggplot2"))
+```
 
 Run the script to:
 
